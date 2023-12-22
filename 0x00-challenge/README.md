@@ -6,7 +6,7 @@ The first set of debugging challenges. Involved bugged programs written in Pytho
 0. FizzBuzz
 
 0-fizzbuzz.py: Python implementation of FizzBuzz.
-Source code
+[Source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py)
 1. Print square
 
 1-print_square.js: Javascript program that prints squares.
